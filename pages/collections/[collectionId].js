@@ -9,4 +9,4 @@ const Collection = () => {
   return <div>collection</div>;
 };
 
-export default CollectionId;
+export default Collection;
